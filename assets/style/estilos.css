@@ -1,0 +1,34 @@
+.footer{
+    background-color: deepskyblue;
+    height: 100px;
+  }
+
+  .icon-size-30{
+    font-size: 150%;
+  }
+
+  .img-carousel{
+    height: 300px;
+  }
+
+  .carousel-item{
+    height: 500px;
+  }
+
+.card-body {
+  min-height: 170px;
+
+}
+
+
+.card-text, .card-title{
+  color: white;
+}
+
+.img_card{
+  height: 260px;
+}
+
+.text-justify{
+  text-align: justify !important;
+}
